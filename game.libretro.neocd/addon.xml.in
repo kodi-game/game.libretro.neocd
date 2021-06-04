@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="game.libretro.neocd"
+		name="SNK - Neo Geo CD (NeoCD)"
+		version="20.21.0.1"
+		provider-name="Elta">
+	<requires>
+		<import addon="game.libretro" version="1.0.0"/>
+	</requires>
+	<extension point="kodi.gameclient"
+			library_@PLATFORM@="@LIBRARY_FILENAME@">
+		<platforms></platforms>
+		<extensions>cue|chd</extensions>
+		<supports_vfs>false</supports_vfs>
+		<supports_standalone>false</supports_standalone>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">SNK - Neo Geo CD (NeoCD) 2021</summary>
+		<description lang="en_GB">Supported files: .cue, .chd</description>
+		<license>LGPLv3</license>
+		<platform>@PLATFORM@</platform>
+		<source>https://github.com/kodi-game/game.libretro.neocd</source>
+	</extension>
+</addon>
