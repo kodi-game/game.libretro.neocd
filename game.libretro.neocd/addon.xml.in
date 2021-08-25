@@ -14,10 +14,10 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">SNK - Neo Geo CD (NeoCD) 2021</summary>
-		<description lang="en_GB">NeoCD for libretro is complete rewrite of the NeoCD emulator in modern C++11.</description>
 		<license>LGPLv3</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.neocd</source>
+		<summary lang="en_GB">SNK - Neo Geo CD (NeoCD) 2021</summary>
+		<description lang="en_GB">NeoCD for libretro is complete rewrite of the NeoCD emulator in modern C++11.</description>
 	</extension>
 </addon>
