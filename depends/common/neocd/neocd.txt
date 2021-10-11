@@ -1,1 +1,1 @@
-neocd https://github.com/libretro/neocd_libretro/archive/d3a24e1dced9bc7cc0d4fe60b7b7fedf7fd47cd6.tar.gz
+neocd https://github.com/libretro/neocd_libretro/archive/33b8f9c28671104047b1993b097a4ddcf3040e55.tar.gz
