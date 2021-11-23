@@ -25,6 +25,7 @@
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
 		<summary lang="en_GB">SNK - Neo Geo CD (NeoCD) 2021</summary>
+		<description lang="da_DK">NeoCD til libretro er komplet omskrivning af NeoCD-emulatoren i moderne C++11.</description>
 		<description lang="en_GB">NeoCD for libretro is complete rewrite of the NeoCD emulator in modern C++11.</description>
 		<description lang="ko_KR">libretro용 NeoCD는 최신 C++11에서 NeoCD 에뮬레이터를 완전히 다시 작성했습니다.</description>
 		<description lang="zh_CN">libretro 的 NeoCD 是在 modern C++11 中对 NeoCD 模拟器的完全重写。</description>
