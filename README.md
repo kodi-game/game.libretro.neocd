@@ -13,7 +13,7 @@ LGPLv3
 
 ### Icon
 
-![Icon](game.libretro.neocd/resources/icon.png)
+![SNK - Neo Geo CD (NeoCD) icon](game.libretro.neocd/resources/icon.png)
 
 ### Fanart
 
@@ -21,6 +21,6 @@ Help make me fanart!
 
 ### Screenshots
 
-![Screenshot](game.libretro.neocd/resources/screenshot-01.jpg)
-![Screenshot](game.libretro.neocd/resources/screenshot-02.jpg)
-![Screenshot](game.libretro.neocd/resources/screenshot-03.jpg)
+![SNK - Neo Geo CD (NeoCD) screenshot](game.libretro.neocd/resources/screenshot-01.jpg)
+![SNK - Neo Geo CD (NeoCD) screenshot](game.libretro.neocd/resources/screenshot-02.jpg)
+![SNK - Neo Geo CD (NeoCD) screenshot](game.libretro.neocd/resources/screenshot-03.jpg)
