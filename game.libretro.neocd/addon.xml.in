@@ -25,6 +25,7 @@
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
 		<summary lang="en_GB">SNK - Neo Geo CD (NeoCD)</summary>
+		<summary lang="es_ES">SNK - Neo Geo CD (NeoCD)</summary>
 		<description lang="da_DK">NeoCD til libretro er komplet omskrivning af NeoCD-emulatoren i moderne C++11.</description>
 		<description lang="de_DE">NeoCD für libretro ist eine komplette Neuschreibung des NeoCD-Emulators in modernem C++ 11.</description>
 		<description lang="en_GB">NeoCD for libretro is complete rewrite of the NeoCD emulator in modern C++11.</description>
