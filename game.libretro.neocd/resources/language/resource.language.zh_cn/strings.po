@@ -24,3 +24,100 @@ msgstr "SNK - Neo Geo CD (NeoCD)"
 msgctxt "Addon Description"
 msgid "NeoCD for libretro is complete rewrite of the NeoCD emulator in modern C++11."
 msgstr "libretro 的 NeoCD 是在 modern C++11 中对 NeoCD 模拟器的完全重写。"
+
+# Empty string with ID 30000
+msgctxt "#30001"
+msgid "System"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Region"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Japan"
+msgstr ""
+
+msgctxt "#30004"
+msgid "USA"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Europe"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Per-Game Saves (Restart)"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Off"
+msgstr ""
+
+msgctxt "#30008"
+msgid "On"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Video"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Horizontal Overscan Mask"
+msgstr ""
+
+msgctxt "#30011"
+msgid "8"
+msgstr ""
+
+msgctxt "#30012"
+msgid "4"
+msgstr ""
+
+msgctxt "#30013"
+msgid "0"
+msgstr ""
+
+msgctxt "#30014"
+msgid "12"
+msgstr ""
+
+msgctxt "#30015"
+msgid "16"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Advanced"
+msgstr ""
+
+msgctxt "#30017"
+msgid "CD Speed Hack"
+msgstr ""
+
+msgctxt "#30018"
+msgid "Skip CD Loading"
+msgstr ""
+
+msgctxt "#30019"
+msgid "CPU Overclock"
+msgstr ""
+
+msgctxt "#30020"
+msgid "100%"
+msgstr ""
+
+msgctxt "#30021"
+msgid "110%"
+msgstr ""
+
+msgctxt "#30022"
+msgid "125%"
+msgstr ""
+
+msgctxt "#30023"
+msgid "150%"
+msgstr ""
+
+msgctxt "#30024"
+msgid "200%"
+msgstr ""
