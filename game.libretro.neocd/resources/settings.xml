@@ -3,7 +3,7 @@
 	<section id="game.libretro.neocd">
 		<category id="system" label="30001">
 			<group id="1">
-				<setting id="neocd_region" type="string" label="30002">
+				<setting id="neocd_region" type="string" label="30025">
 					<level>0</level>
 					<default>Japan</default>
 					<constraints>
@@ -20,8 +20,8 @@
 					<default>Off</default>
 					<constraints>
 						<options>
-							<option label="30007">Off</option>
 							<option label="30008">On</option>
+							<option label="30007">Off</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -44,13 +44,25 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
+				<setting id="neocd_aspect_ratio" type="string" label="30026">
+					<level>0</level>
+					<default>1:1 PAR</default>
+					<constraints>
+						<options>
+							<option label="30027">1:1 PAR</option>
+							<option label="30028">45:44 PAR</option>
+							<option label="30029">4:3 DAR</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
 			</group>
 		</category>
 		<category id="advanced" label="30016">
 			<group id="1">
 				<setting id="neocd_cdspeedhack" type="string" label="30017">
 					<level>0</level>
-					<default>On</default>
+					<default>Off</default>
 					<constraints>
 						<options>
 							<option label="30008">On</option>
