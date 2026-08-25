@@ -30,10 +30,6 @@ msgctxt "#30001"
 msgid "System"
 msgstr ""
 
-msgctxt "#30002"
-msgid "Region"
-msgstr ""
-
 msgctxt "#30003"
 msgid "Japan"
 msgstr ""
@@ -120,4 +116,24 @@ msgstr ""
 
 msgctxt "#30024"
 msgid "200%"
+msgstr ""
+
+msgctxt "#30025"
+msgid "Console Region"
+msgstr ""
+
+msgctxt "#30026"
+msgid "Aspect Ratio"
+msgstr ""
+
+msgctxt "#30027"
+msgid "1:1 PAR"
+msgstr ""
+
+msgctxt "#30028"
+msgid "45:44 PAR"
+msgstr ""
+
+msgctxt "#30029"
+msgid "4:3 DAR"
 msgstr ""
