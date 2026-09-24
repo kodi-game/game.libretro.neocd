@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.neocd"
 		name="SNK - Neo Geo CD (NeoCD)"
-		version="2022.0.0.32"
+		version="2022.0.0.33"
 		provider-name="Elta">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -9,7 +9,7 @@
 	</requires>
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
-		<platforms></platforms>
+		<platforms>SNK - Neo Geo CD</platforms>
 		<extensions>cue|chd</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
